@@ -1,41 +1,587 @@
 #EXTM3U
-#EXTINF:24,Redlight
-http://stream.mcquack.net/51/index.m3u8
-#EXTINF:24,Hustler
-http://stream.mcquack.net/52/index.m3u8
-#EXTINF:24,Babes TV
-http://stream.mcquack.net/55/index.m3u8
-#EXTINF:40,Brazzers
-http://stream.mcquack.net/53/index.m3u8
-#EXTINF:40,Clips XXX
-http://stream.mcquack.net/56/index.m3u8
-#EXTINF:40,Penthouse
-http://stream.mcquack.net/66/index.m3u8
-#EXTINF:40,Penthouse
-http://185.98.209.11:81/penthouse1/index.m3u8?token=test
-#EXTINF:40,Private SD
-http://77.46.130.252:99/private
-#EXTINF:40,Dorcel SD
-http://77.46.130.252:99/dorcel
-#EXTINF:40,Dorcel
-http://23.95.72.63:8080/Dorcel/index.m3u8
-#EXTINF:40,RED Lips
-http://stream.mcquack.net/61/index.m3u8
-#EXTINF:40,Balkan Erotic
-http://93.103.82.34:33771/m2u/239.18.12.236:5000
-#EXTINF:40,Vivid Europe
-http://93.103.82.34:33771/m2u/239.18.12.240:5000
-#EXTINF:40,Hot Pleesure
-http://93.103.82.34:33771/m2u/239.18.12.238:5000
-#EXTINF:40,Extreme XXX
-http://93.103.82.34:33771/m2u/239.18.12.249:5000
-#EXTINF:40,MILF TV
-http://93.103.82.34:33771/m2u/239.18.12.248:5000
-#EXTINF:40,Passion XXX
-http://93.103.82.34:33771/m2u/239.18.12.201:5000
-#EXTINF:40,PlayHouse
-http://93.103.82.34:33771/m2u/239.18.12.235:5000
-#EXTINF:40,ERO XXX HD
-http://93.103.82.34:33771/m2u/239.18.12.246:5000
-#EXTINF:40,RED XXX
-http://93.103.82.34:33771/m2u/239.18.12.247:5000
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports News HD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.NEWS.png" group-title="bein Sports HD ⚽",beIN Sports News HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/142732
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN SPORTS 1 HD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS1.png" group-title="bein Sports HD ⚽",beIN SPORTS 1 HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/142736
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="beIN SPORTS 2 HD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS2.png" group-title="bein Sports HD ⚽",beIN SPORTS 2 HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/142737
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="beIN SPORTS 3 HD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS3.png" group-title="bein Sports HD ⚽",beIN SPORTS 3 HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/142738
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="beIN SPORTS 4 HD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS4.png" group-title="bein Sports HD ⚽",beIN SPORTS 4 HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/142739
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="beIN SPORTS 5 HD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS5.png" group-title="bein Sports HD ⚽",beIN SPORTS 5 HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/142740
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="beIN SPORTS 6 HD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS6.png" group-title="bein Sports HD ⚽",beIN SPORTS 6 HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/142741
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="beIN SPORTS 7 HD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS7.png" group-title="bein Sports HD ⚽",beIN SPORTS 7 HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/142742
+#EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-name="beIN SPORTS 8 HD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS8.png" group-title="bein Sports HD ⚽",beIN SPORTS 8 HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/142733
+#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="beIN SPORTS 9 HD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS9.png" group-title="bein Sports HD ⚽",beIN SPORTS 9 HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/142734
+#EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="beIN SPORTS NBA HD" tvg-logo="http://194.163.160.164/BEIN/BEIN.NBA.png" group-title="bein Sports HD ⚽",beIN SPORTS NBA HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/142745
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport EXTRA 1 HD" tvg-logo="http://194.163.160.164/BEIN/BEIN.EXTRA1.png" group-title="bein Sports HD ⚽",beIN Sport EXTRA 1 HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/421893
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport EXTRA 2 HD" tvg-logo="http://194.163.160.164/BEIN/BEIN.EXTRA2.png" group-title="bein Sports HD ⚽",beIN Sport EXTRA 2 HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/421894
+#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="beIN Sport EXTRA 3 HD" tvg-logo="http://194.163.160.164/BEIN/BEIN.EXTRA3.png" group-title="bein Sports HD ⚽",beIN Sport EXTRA 3 HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/142735
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="beIN SPORTS 1 English HD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.ENGLISH1.png" group-title="bein Sports HD ⚽",beIN SPORTS 1 English HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/142743
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="beIN SPORTS 2 English HD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.ENGLISH2.png" group-title="bein Sports HD ⚽",beIN SPORTS 2 English HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/142744
+#EXTINF:-1 tvg-id="beinsports1fr.qa" tvg-name="beIN SPORTS 1 French HD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.FRENCH1.png" group-title="bein Sports HD ⚽",beIN SPORTS 1 French HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/142746
+#EXTINF:-1 tvg-id="beinsports2fr.qa" tvg-name="beIN SPORTS 2 French HD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.FRENCH2.png" group-title="bein Sports HD ⚽",beIN SPORTS 2 French HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/142747
+#EXTINF:-1 tvg-id="beinsports3fr.qa" tvg-name="beIN SPORTS 3 French HD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.FRENCH3.png" group-title="bein Sports HD ⚽",beIN SPORTS 3 French HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/142748
+#EXTINF:-1 tvg-id="" tvg-name="K- Rudaw" tvg-logo="http://194.163.160.164/KURDY/RUDAW.png" group-title="Kurdish",K- Rudaw
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/70744
+#EXTINF:-1 tvg-id="" tvg-name="K- K24" tvg-logo="http://194.163.160.164/KURDY/K24.png" group-title="Kurdish",K- K24
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/1160
+#EXTINF:-1 tvg-id="" tvg-name="K- AVA Media" tvg-logo="http://194.163.160.164/KURDY/AVA.ENTERTAINMENT.png" group-title="Kurdish",K- AVA Media
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/9593
+#EXTINF:-1 tvg-id="" tvg-name="K- NRT 1 News" tvg-logo="http://194.163.160.164/KURDY/NRT.png" group-title="Kurdish",K- NRT 1 News
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/8
+#EXTINF:-1 tvg-id="" tvg-name="K- Channel 8 Kurdish" tvg-logo="http://194.163.160.164/KURDY/CHANNEL8.png" group-title="Kurdish",K- Channel 8 Kurdish
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/435849
+#EXTINF:-1 tvg-id="" tvg-name="K- Kurdistan TV" tvg-logo="http://194.163.160.164/KURDY/KURDISTAN.png" group-title="Kurdish",K- Kurdistan TV
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/21
+#EXTINF:-1 tvg-id="" tvg-name="K- Gali Kurdistan" tvg-logo="http://194.163.160.164/KURDY/GALI.KURDISTAN.png" group-title="Kurdish",K- Gali Kurdistan
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/99957
+#EXTINF:-1 tvg-id="" tvg-name="K- GK+" tvg-logo="http://194.163.160.164/KURDY/GK+.png" group-title="Kurdish",K- GK+
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/512261
+#EXTINF:-1 tvg-id="" tvg-name="K- K24 DOC" tvg-logo="http://194.163.160.164/KURDY/K24.DOC.png" group-title="Kurdish",K- K24 DOC
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/390555
+#EXTINF:-1 tvg-id="" tvg-name="K- Kurdsat News" tvg-logo="http://194.163.160.164/KURDY/KURDSAT.NEWS.png" group-title="Kurdish",K- Kurdsat News
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/1
+#EXTINF:-1 tvg-id="" tvg-name="K- Kurdsat TV" tvg-logo="http://194.163.160.164/KURDY/KURDSAT.png" group-title="Kurdish",K- Kurdsat TV
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/4
+#EXTINF:-1 tvg-id="" tvg-name="K- KurdMax Sorani" tvg-logo="http://194.163.160.164/KURDY/KURDMAX.png" group-title="Kurdish",K- KurdMax Sorani
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/5
+#EXTINF:-1 tvg-id="" tvg-name="K- KurdMax Kurmanji" tvg-logo="http://194.163.160.164/KURDY/KURDMAX.KURMANJI.png" group-title="Kurdish",K- KurdMax Kurmanji
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/11264
+#EXTINF:-1 tvg-id="" tvg-name="K- KurdMax Show Sorani" tvg-logo="http://194.163.160.164/KURDY/KURDMAXSHOW.SORANI.png" group-title="Kurdish",K- KurdMax Show Sorani
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/2289
+#EXTINF:-1 tvg-id="" tvg-name="K- Kurdmax Show Kurmanji" tvg-logo="http://194.163.160.164/KURDY/KURDMAXSHOW.KURMANJI.png" group-title="Kurdish",K- Kurdmax Show Kurmanji
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/2290
+#EXTINF:-1 tvg-id="" tvg-name="K- Kurdmax Music" tvg-logo="http://194.163.160.164/KURDY/KURDMAX.MUSIC.png" group-title="Kurdish",K- Kurdmax Music
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/444303
+#EXTINF:-1 tvg-id="" tvg-name="K- Kurdmax Pepula" tvg-logo="http://194.163.160.164/KURDY/KURDMAX.PAPULA.png" group-title="Kurdish",K- Kurdmax Pepula
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/14491
+#EXTINF:-1 tvg-id="" tvg-name="K- Aro Sport 2" tvg-logo="http://194.163.160.164/KURDY/ARO.SPORT.png" group-title="Kurdish",K- Aro Sport 2
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/432985
+#EXTINF:-1 tvg-id="" tvg-name="K- Aro Family" tvg-logo="http://194.163.160.164/KURDY/ARO.FAMILY.png" group-title="Kurdish",K- Aro Family
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/432986
+#EXTINF:-1 tvg-id="" tvg-name="K- Aro Sport 3" tvg-logo="http://194.163.160.164/KURDY/ARO.KIDS.png" group-title="Kurdish",K- Aro Sport 3
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/159595
+#EXTINF:-1 tvg-id="" tvg-name="K- Zagros 24" tvg-logo="http://194.163.160.164/KURDY/ARYEN.png" group-title="Kurdish",K- Zagros 24
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/10159
+#EXTINF:-1 tvg-id="" tvg-name="K- Asman" tvg-logo="http://194.163.160.164/KURDY/ARYEN.png" group-title="Kurdish",K- Asman
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/201415
+#EXTINF:-1 tvg-id="" tvg-name="K- Astera Baby" tvg-logo="http://194.163.160.164/KURDY/ASTERA.BABY.png" group-title="Kurdish",K- Astera Baby
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/13430
+#EXTINF:-1 tvg-id="" tvg-name="K- Astera Culture" tvg-logo="http://194.163.160.164/KURDY/ASTERA.CULTUR.png" group-title="Kurdish",K- Astera Culture
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/169650
+#EXTINF:-1 tvg-id="" tvg-name="K- Astera Documentary" tvg-logo="http://194.163.160.164/KURDY/ASTERA.DOCUMENTARY.png" group-title="Kurdish",K- Astera Documentary
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/16729
+#EXTINF:-1 tvg-id="" tvg-name="K- Astera Family" tvg-logo="http://194.163.160.164/KURDY/ASTERA.FAMILY.png" group-title="Kurdish",K- Astera Family
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/1006
+#EXTINF:-1 tvg-id="" tvg-name="K- Astera Movies" tvg-logo="http://194.163.160.164/KURDY/ASTERA.MOVIES.png" group-title="Kurdish",K- Astera Movies
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/13426
+#EXTINF:-1 tvg-id="" tvg-name="K- Astera Show" tvg-logo="http://194.163.160.164/KURDY/ASTERA.SHOW.png" group-title="Kurdish",K- Astera Show
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/10588
+#EXTINF:-1 tvg-id="" tvg-name="K- LD LIFE" tvg-logo="http://194.163.160.164/KURDY/LD.LIFE.png" group-title="Kurdish",K- LD LIFE
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/384494
+#EXTINF:-1 tvg-id="" tvg-name="K- GEWHER KIDS" tvg-logo="http://194.163.160.164/KURDY/GEWHAR.png" group-title="Kurdish",K- GEWHER KIDS
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/290927
+#EXTINF:-1 tvg-id="" tvg-name="K- GEWHER SPORT" tvg-logo="http://194.163.160.164/KURDY/GEWHAR.png" group-title="Kurdish",K- GEWHER SPORT
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/28027
+#EXTINF:-1 tvg-id="" tvg-name="Nergz TV" tvg-logo="" group-title="Kurdish",Nergz TV
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/502204
+#EXTINF:-1 tvg-id="" tvg-name="K- Avar" tvg-logo="http://194.163.160.164/KURDY/AVAR.png" group-title="Kurdish",K- Avar
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/432069
+#EXTINF:-1 tvg-id="" tvg-name="K- Azadi" tvg-logo="http://194.163.160.164/KURDY/AZADITV.png" group-title="Kurdish",K- Azadi
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/84637
+#EXTINF:-1 tvg-id="" tvg-name="K- Shna Quran" tvg-logo="http://194.163.160.164/KURDY/SHNA.QURAN.png" group-title="Kurdish",K- Shna Quran
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/97483
+#EXTINF:-1 tvg-id="" tvg-name="K- Baboly" tvg-logo="http://194.163.160.164/KURDY/BABOLY.png" group-title="Kurdish",K- Baboly
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/41009
+#EXTINF:-1 tvg-id="" tvg-name="K- Niroj Ayini" tvg-logo="http://194.163.160.164/KURDY/NIROJ.AYINI.png" group-title="Kurdish",K- Niroj Ayini
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/169659
+#EXTINF:-1 tvg-id="" tvg-name="K- Bangawaz" tvg-logo="http://194.163.160.164/KURDY/BANGXWAZ.png" group-title="Kurdish",K- Bangawaz
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/1161
+#EXTINF:-1 tvg-id="" tvg-name="K- Barin Quran" tvg-logo="http://194.163.160.164/KURDY/BARINQURAN.png" group-title="Kurdish",K- Barin Quran
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/191778
+#EXTINF:-1 tvg-id="" tvg-name="K- BASK" tvg-logo="http://194.163.160.164/KURDY/BASK.png" group-title="Kurdish",K- BASK
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/199936
+#EXTINF:-1 tvg-id="" tvg-name="K- BEFRIN HD" tvg-logo="http://194.163.160.164/KURDY/BEFRIN.png" group-title="Kurdish",K- BEFRIN HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/444983
+#EXTINF:-1 tvg-id="" tvg-name="K- Binar" tvg-logo="http://194.163.160.164/KURDY/BINAR.png" group-title="Kurdish",K- Binar
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/143285
+#EXTINF:-1 tvg-id="" tvg-name="K- BMC" tvg-logo="http://194.163.160.164/KURDY/BMC.png" group-title="Kurdish",K- BMC
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/41519
+#EXTINF:-1 tvg-id="" tvg-name="K- New Movies HD" tvg-logo="http://194.163.160.164/KURDY/GASHA.FAMILY.png" group-title="Kurdish",K- New Movies HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/411575
+#EXTINF:-1 tvg-id="" tvg-name="K- New Action" tvg-logo="http://194.163.160.164/KURDY/BNAR.ACTION.DRAMA.png" group-title="Kurdish",K- New Action
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/484387
+#EXTINF:-1 tvg-id="" tvg-name="K- ANIMAL BOX" tvg-logo="https://i.ibb.co/FDWFDnC/aryan.jpg" group-title="Kurdish",K- ANIMAL BOX
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/447361
+#EXTINF:-1 tvg-id="" tvg-name="New Family HD" tvg-logo="http://194.163.160.164/KURDY/BINAR.png" group-title="Kurdish",New Family HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/466521
+#EXTINF:-1 tvg-id="" tvg-name="Jamawar TV" tvg-logo="http://194.163.160.164/KURDY/JAMAWAR.png" group-title="Kurdish",Jamawar TV
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/199332
+#EXTINF:-1 tvg-id="" tvg-name="K- 4 Kurd" tvg-logo="http://194.163.160.164/KURDY/4KURD.png" group-title="Kurdish",K- 4 Kurd
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/143286
+#EXTINF:-1 tvg-id="" tvg-name="K- Amozhgary" tvg-logo="http://194.163.160.164/KURDY/AMOZHGARY.png" group-title="Kurdish",K- Amozhgary
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/67194
+#EXTINF:-1 tvg-id="" tvg-name="K- A.Amozhgary" tvg-logo="http://194.163.160.164/KURDY/A.AMOZHGARY.png" group-title="Kurdish",K- A.Amozhgary
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/239696
+#EXTINF:-1 tvg-id="" tvg-name="K- A2" tvg-logo="http://194.163.160.164/KURDY/A2.png" group-title="Kurdish",K- A2
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/385885
+#EXTINF:-1 tvg-id="" tvg-name="K- Walla TV" tvg-logo="http://194.163.160.164/KURDY/WALLA.png" group-title="Kurdish",K- Walla TV
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/489349
+#EXTINF:-1 tvg-id="" tvg-name="K- AFARIN BAXCHA" tvg-logo="http://194.163.160.164/KURDY/AFARINBAXCHA.png" group-title="Kurdish",K- AFARIN BAXCHA
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/302921
+#EXTINF:-1 tvg-id="" tvg-name="K- Afarin Kids" tvg-logo="http://194.163.160.164/KURDY/AFARINKIDS.png" group-title="Kurdish",K- Afarin Kids
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/30522
+#EXTINF:-1 tvg-id="" tvg-name="K- Pesmerge HD" tvg-logo="http://194.163.160.164/KURDY/PESHMARGA.png" group-title="Kurdish",K- Pesmerge HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/493183
+#EXTINF:-1 tvg-id="" tvg-name="K- Akili TV" tvg-logo="http://194.163.160.164/KURDY/AKILLI.png" group-title="Kurdish",K- Akili TV
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/169646
+#EXTINF:-1 tvg-id="" tvg-name="K- Ala" tvg-logo="http://194.163.160.164/KURDY/ALA.png" group-title="Kurdish",K- Ala
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/340126
+#EXTINF:-1 tvg-id="" tvg-name="K- Helhelok" tvg-logo="http://194.163.160.164/KURDY/HELHELOK.png" group-title="Kurdish",K- Helhelok
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/510743
+#EXTINF:-1 tvg-id="" tvg-name="K- Alla" tvg-logo="http://194.163.160.164/KURDY/ALLA.png" group-title="Kurdish",K- Alla
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/249322
+#EXTINF:-1 tvg-id="" tvg-name="K- Cihan" tvg-logo="http://194.163.160.164/KURDY/CIHAN.png" group-title="Kurdish",K- Cihan
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/9594
+#EXTINF:-1 tvg-id="" tvg-name="K- Cira TV" tvg-logo="http://194.163.160.164/KURDY/CIRA.png" group-title="Kurdish",K- Cira TV
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/1209
+#EXTINF:-1 tvg-id="" tvg-name="K- Dasinya HD" tvg-logo="http://194.163.160.164/KURDY/DASINYA.png" group-title="Kurdish",K- Dasinya HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/169673
+#EXTINF:-1 tvg-id="" tvg-name="K- Dasinya kids" tvg-logo="http://194.163.160.164/KURDY/DASINYA.KIDS.png" group-title="Kurdish",K- Dasinya kids
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/162748
+#EXTINF:-1 tvg-id="" tvg-name="K- Dasinya Music" tvg-logo="http://194.163.160.164/KURDY/DASINYA.MUSIC.png" group-title="Kurdish",K- Dasinya Music
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/169674
+#EXTINF:-1 tvg-id="" tvg-name="K- Delal TV" tvg-logo="http://194.163.160.164/KURDY/DELAL.png" group-title="Kurdish",K- Delal TV
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/169677
+#EXTINF:-1 tvg-id="" tvg-name="K- Derin" tvg-logo="http://194.163.160.164/KURDY/DERIN.png" group-title="Kurdish",K- Derin
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/134471
+#EXTINF:-1 tvg-id="" tvg-name="K- Derwaza Music" tvg-logo="http://194.163.160.164/KURDY/DERWAZE.png" group-title="Kurdish",K- Derwaza Music
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/196379
+#EXTINF:-1 tvg-id="" tvg-name="K- Derwaze" tvg-logo="http://194.163.160.164/KURDY/DERWAZE.png" group-title="Kurdish",K- Derwaze
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/28424
+#EXTINF:-1 tvg-id="" tvg-name="K- Dever" tvg-logo="http://194.163.160.164/KURDY/DEVER.png" group-title="Kurdish",K- Dever
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/196376
+#EXTINF:-1 tvg-id="" tvg-name="K- Dimen" tvg-logo="http://194.163.160.164/KURDY/DIMEN.png" group-title="Kurdish",K- Dimen
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/108667
+#EXTINF:-1 tvg-id="" tvg-name="K- Duhok" tvg-logo="http://194.163.160.164/KURDY/DUHOK.png" group-title="Kurdish",K- Duhok
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/19919
+#EXTINF:-1 tvg-id="" tvg-name="K- Duhok TV HD" tvg-logo="http://194.163.160.164/KURDY/DUHOK.png" group-title="Kurdish",K- Duhok TV HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/169685
+#EXTINF:-1 tvg-id="" tvg-name="K- ESRA 2" tvg-logo="http://194.163.160.164/KURDY/ESRA.png" group-title="Kurdish",K- ESRA 2
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/61003
+#EXTINF:-1 tvg-id="" tvg-name="K- Esra Quran" tvg-logo="http://194.163.160.164/KURDY/ESRA.png" group-title="Kurdish",K- Esra Quran
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/28975
+#EXTINF:-1 tvg-id="" tvg-name="K- ESRA TV" tvg-logo="http://194.163.160.164/KURDY/ESRA.png" group-title="Kurdish",K- ESRA TV
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/341947
+#EXTINF:-1 tvg-id="" tvg-name="K- EUROKURD" tvg-logo="http://194.163.160.164/KURDY/EKURD.png" group-title="Kurdish",K- EUROKURD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/298772
+#EXTINF:-1 tvg-id="" tvg-name="K- Ezdan" tvg-logo="http://194.163.160.164/KURDY/EZDAN.png" group-title="Kurdish",K- Ezdan
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/168399
+#EXTINF:-1 tvg-id="" tvg-name="K- Dunya HD" tvg-logo="" group-title="Kurdish",K- Dunya HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/494231
+#EXTINF:-1 tvg-id="" tvg-name="K- Farmoda" tvg-logo="http://194.163.160.164/KURDY/FARMODA.png" group-title="Kurdish",K- Farmoda
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/431207
+#EXTINF:-1 tvg-id="" tvg-name="K- Local First" tvg-logo="http://194.163.160.164/KURDY/LOCAL.FIRST.png" group-title="Kurdish",K- Local First
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/201409
+#EXTINF:-1 tvg-id="" tvg-name="K- FOX TV" tvg-logo="http://194.163.160.164/KURDY/FOX.png" group-title="Kurdish",K- FOX TV
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/196373
+#EXTINF:-1 tvg-id="" tvg-name="K- Rojhelat HD" tvg-logo="" group-title="Kurdish",K- Rojhelat HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/504030
+#EXTINF:-1 tvg-id="" tvg-name="K- Fox HD" tvg-logo="http://194.163.160.164/KURDY/FOX.png" group-title="Kurdish",K- Fox HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/169686
+#EXTINF:-1 tvg-id="" tvg-name="K- Garyan TV" tvg-logo="http://194.163.160.164/KURDY/GARYANMEDIA.png" group-title="Kurdish",K- Garyan TV
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/443290
+#EXTINF:-1 tvg-id="" tvg-name="K- Halabja tv" tvg-logo="http://194.163.160.164/KURDY/HALABJA.png" group-title="Kurdish",K- Halabja tv
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/382145
+#EXTINF:-1 tvg-id="" tvg-name="K- IMK Quran" tvg-logo="http://194.163.160.164/KURDY/IMKQURAN.png" group-title="Kurdish",K- IMK Quran
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/445555
+#EXTINF:-1 tvg-id="" tvg-name="K- Iraqia Kurd" tvg-logo="http://194.163.160.164/KURDY/IRAQIA.KURD.png" group-title="Kurdish",K- Iraqia Kurd
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/28639
+#EXTINF:-1 tvg-id="" tvg-name="K- Barin Doc" tvg-logo="http://194.163.160.164/KURDY/BARIN.DOC.png" group-title="Kurdish",K- Barin Doc
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/508562
+#EXTINF:-1 tvg-id="" tvg-name="K- Ishtar" tvg-logo="http://194.163.160.164/KURDY/ISHTAR.png" group-title="Kurdish",K- Ishtar
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/124561
+#EXTINF:-1 tvg-id="" tvg-name="K- Jin" tvg-logo="http://194.163.160.164/KURDY/JIN.png" group-title="Kurdish",K- Jin
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/117517
+#EXTINF:-1 tvg-id="" tvg-name="K- JoJo MaMa" tvg-logo="http://194.163.160.164/KURDY/JOJO.MAMA.png" group-title="Kurdish",K- JoJo MaMa
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/1997
+#EXTINF:-1 tvg-id="" tvg-name="K- Judy" tvg-logo="http://194.163.160.164/KURDY/JUDI.png" group-title="Kurdish",K- Judy
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/118328
+#EXTINF:-1 tvg-id="" tvg-name="K- Kalapur" tvg-logo="http://194.163.160.164/KURDY/KALAPUR.png" group-title="Kurdish",K- Kalapur
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/243475
+#EXTINF:-1 tvg-id="" tvg-name="K- Kani" tvg-logo="http://194.163.160.164/KURDY/KANI.png" group-title="Kurdish",K- Kani
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/162749
+#EXTINF:-1 tvg-id="" tvg-name="K- Shar Quran" tvg-logo="" group-title="Kurdish",K- Shar Quran
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/511339
+#EXTINF:-1 tvg-id="" tvg-name="K- Khak" tvg-logo="http://194.163.160.164/KURDY/KHAK.png" group-title="Kurdish",K- Khak
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/421946
+#EXTINF:-1 tvg-id="" tvg-name="K- kidco hd" tvg-logo="http://194.163.160.164/KURDY/KIDCOHD.png" group-title="Kurdish",K- kidco hd
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/424663
+#EXTINF:-1 tvg-id="" tvg-name="K- Kirkuk" tvg-logo="http://194.163.160.164/KURDY/KERKUK.png" group-title="Kurdish",K- Kirkuk
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/204
+#EXTINF:-1 tvg-id="" tvg-name="K- Komal Ranya" tvg-logo="http://194.163.160.164/KURDY/KOMAL.RANYA.png" group-title="Kurdish",K- Komal Ranya
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/36726
+#EXTINF:-1 tvg-id="" tvg-name="K- Komall" tvg-logo="http://194.163.160.164/KURDY/KOMAL.png" group-title="Kurdish",K- Komall
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/14367
+#EXTINF:-1 tvg-id="" tvg-name="K- KRD WWE" tvg-logo="http://194.163.160.164/KURDY/KRD.WWE.png" group-title="Kurdish",K- KRD WWE
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/28103
+#EXTINF:-1 tvg-id="" tvg-name="K- KURD" tvg-logo="http://194.163.160.164/KURDY/KURD.png" group-title="Kurdish",K- KURD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/324079
+#EXTINF:-1 tvg-id="" tvg-name="K- KURD CHANNEL" tvg-logo="http://194.163.160.164/KURDY/KURD.png" group-title="Kurdish",K- KURD CHANNEL
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/286734
+#EXTINF:-1 tvg-id="" tvg-name="K- KURD MOVIES" tvg-logo="http://194.163.160.164/KURDY/KURD.MOVIES.png" group-title="Kurdish",K- KURD MOVIES
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/66075
+#EXTINF:-1 tvg-id="" tvg-name="K- Kurdana" tvg-logo="http://194.163.160.164/KURDY/KURD.png" group-title="Kurdish",K- Kurdana
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/448311
+#EXTINF:-1 tvg-id="" tvg-name="K- Kurd cinema" tvg-logo="http://194.163.160.164/KURDY/KURDCINEMA.png" group-title="Kurdish",K- Kurd cinema
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/201406
+#EXTINF:-1 tvg-id="" tvg-name="K- SORAN Entertainment" tvg-logo="http://194.163.160.164/KURDY/SORAN.ENTERTAINMENT.png" group-title="Kurdish",K- SORAN Entertainment
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/1003
+#EXTINF:-1 tvg-id="" tvg-name="K- LD Anime" tvg-logo="http://194.163.160.164/KURDY/LD.ANIME.png" group-title="Kurdish",K- LD Anime
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/239697
+#EXTINF:-1 tvg-id="" tvg-name="K- LD AZHIN" tvg-logo="https://cdn.bio.link/uploads/profile_pictures/2023-07-30/ykJlj0ZlggfCvIX4YXbPZ38u8qxejHid.png" group-title="Kurdish",K- LD AZHIN
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/298774
+#EXTINF:-1 tvg-id="" tvg-name="K- Atv Kurd" tvg-logo="http://194.163.160.164/KURDY/A.TV.png" group-title="Kurdish",K- Atv Kurd
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/496473
+#EXTINF:-1 tvg-id="" tvg-name="K- GEWHER" tvg-logo="http://194.163.160.164/KURDY/GEWHAR.png" group-title="Kurdish",K- GEWHER
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/30007
+#EXTINF:-1 tvg-id="" tvg-name="K- LD Kurdcinema" tvg-logo="http://194.163.160.164/KURDY/LD.KURD.CINEMA.png" group-title="Kurdish",K- LD Kurdcinema
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/157863
+#EXTINF:-1 tvg-id="" tvg-name="K- LD Nujin" tvg-logo="http://194.163.160.164/KURDY/LD.NUJIN.png" group-title="Kurdish",K- LD Nujin
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/157862
+#EXTINF:-1 tvg-id="" tvg-name="K- LD Pshdar" tvg-logo="http://194.163.160.164/KURDY/PSHDAR.png" group-title="Kurdish",K- LD Pshdar
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/323413
+#EXTINF:-1 tvg-id="" tvg-name="K- Med Music" tvg-logo="http://194.163.160.164/KURDY/MEDMUSIC.png" group-title="Kurdish",K- Med Music
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/1219
+#EXTINF:-1 tvg-id="" tvg-name="K- Mihrab" tvg-logo="http://194.163.160.164/KURDY/MIHRAB.png" group-title="Kurdish",K- Mihrab
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/149061
+#EXTINF:-1 tvg-id="" tvg-name="K- Mihrab FM" tvg-logo="http://194.163.160.164/KURDY/MIHRAB.png" group-title="Kurdish",K- Mihrab FM
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/425082
+#EXTINF:-1 tvg-id="" tvg-name="K- Minara" tvg-logo="http://194.163.160.164/KURDY/MINARA.png" group-title="Kurdish",K- Minara
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/39072
+#EXTINF:-1 tvg-id="" tvg-name="K- Mix Kurdy" tvg-logo="http://194.163.160.164/KURDY/MIX.KURDISH.png" group-title="Kurdish",K- Mix Kurdy
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/84585
+#EXTINF:-1 tvg-id="" tvg-name="K- MMN ACTION" tvg-logo="http://194.163.160.164/KURDY/MMN.ACTION.png" group-title="Kurdish",K- MMN ACTION
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/190536
+#EXTINF:-1 tvg-id="" tvg-name="K- MMN Classic Musical" tvg-logo="http://194.163.160.164/KURDY/MMNCLASSIC.png" group-title="Kurdish",K- MMN Classic Musical
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/28850
+#EXTINF:-1 tvg-id="" tvg-name="K- MMN Clip" tvg-logo="http://194.163.160.164/KURDY/MMN.CLIP.png" group-title="Kurdish",K- MMN Clip
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/28840
+#EXTINF:-1 tvg-id="" tvg-name="K- MMN Documentary" tvg-logo="http://194.163.160.164/KURDY/MMN.DOCUMENTARY.png" group-title="Kurdish",K- MMN Documentary
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/28849
+#EXTINF:-1 tvg-id="" tvg-name="K- MMN DRAMA" tvg-logo="http://194.163.160.164/KURDY/MMN.DRAMA.png" group-title="Kurdish",K- MMN DRAMA
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/188582
+#EXTINF:-1 tvg-id="" tvg-name="K- MMN Kids" tvg-logo="http://194.163.160.164/KURDY/MMN.KIDS.png" group-title="Kurdish",K- MMN Kids
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/28839
+#EXTINF:-1 tvg-id="" tvg-name="K- MMN Movies" tvg-logo="http://194.163.160.164/KURDY/MMN.MOVIES.png" group-title="Kurdish",K- MMN Movies
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/28838
+#EXTINF:-1 tvg-id="" tvg-name="K- MMN News" tvg-logo="http://194.163.160.164/KURDY/MMN.NEWS.png" group-title="Kurdish",K- MMN News
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/64147
+#EXTINF:-1 tvg-id="" tvg-name="K- MMN Radio Farsy" tvg-logo="http://194.163.160.164/KURDY/MMNRADIOFARSI.png" group-title="Kurdish",K- MMN Radio Farsy
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/30277
+#EXTINF:-1 tvg-id="" tvg-name="K- MMN Radio Turkey" tvg-logo="http://194.163.160.164/KURDY/MMN.RADIOTURKEY.png" group-title="Kurdish",K- MMN Radio Turkey
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/30038
+#EXTINF:-1 tvg-id="" tvg-name="K- MMN Show" tvg-logo="http://194.163.160.164/KURDY/MMN.SHOW.png" group-title="Kurdish",K- MMN Show
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/29799
+#EXTINF:-1 tvg-id="" tvg-name="K- MNN ACTION" tvg-logo="http://194.163.160.164/KURDY/MMN.ACTION.png" group-title="Kurdish",K- MNN ACTION
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/190275
+#EXTINF:-1 tvg-id="" tvg-name="K- MTV Family" tvg-logo="http://194.163.160.164/KURDY/MTVFAMILY.png" group-title="Kurdish",K- MTV Family
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/392620
+#EXTINF:-1 tvg-id="" tvg-name="K- MTV Kids" tvg-logo="http://194.163.160.164/KURDY/MTVKIDS.png" group-title="Kurdish",K- MTV Kids
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/437326
+#EXTINF:-1 tvg-id="" tvg-name="K- MTV Music" tvg-logo="http://194.163.160.164/KURDY/MTVMUSIC.png" group-title="Kurdish",K- MTV Music
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/432066
+#EXTINF:-1 tvg-id="" tvg-name="K- NewLine" tvg-logo="http://194.163.160.164/KURDY/NEWLINE.png" group-title="Kurdish",K- NewLine
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/1031
+#EXTINF:-1 tvg-id="" tvg-name="K- Newline 2" tvg-logo="http://194.163.160.164/KURDY/NEWLINE2.png" group-title="Kurdish",K- Newline 2
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/1961
+#EXTINF:-1 tvg-id="" tvg-name="K- NewMax Box Office 1" tvg-logo="http://194.163.160.164/KURDY/NEW.MAX.BOXOFFICE.png" group-title="Kurdish",K- NewMax Box Office 1
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/15791
+#EXTINF:-1 tvg-id="" tvg-name="K- Next TV" tvg-logo="http://194.163.160.164/KURDY/NEXTTV.png" group-title="Kurdish",K- Next TV
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/436805
+#EXTINF:-1 tvg-id="" tvg-name="K- Niga Family" tvg-logo="http://194.163.160.164/KURDY/NIGA.FAMILY.png" group-title="Kurdish",K- Niga Family
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/387118
+#EXTINF:-1 tvg-id="" tvg-name="K- Niga Kids" tvg-logo="http://194.163.160.164/KURDY/NIGA.KIDS.png" group-title="Kurdish",K- Niga Kids
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/387119
+#EXTINF:-1 tvg-id="" tvg-name="K- Niga Movies" tvg-logo="http://194.163.160.164/KURDY/NIGA.MOVIES.png" group-title="Kurdish",K- Niga Movies
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/387117
+#EXTINF:-1 tvg-id="" tvg-name="K- Niroj" tvg-logo="http://194.163.160.164/KURDY/NIROJ.png" group-title="Kurdish",K- Niroj
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/431308
+#EXTINF:-1 tvg-id="" tvg-name="K- Niroj Kids" tvg-logo="http://194.163.160.164/KURDY/NIROJ.KIDS.png" group-title="Kurdish",K- Niroj Kids
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/431309
+#EXTINF:-1 tvg-id="" tvg-name="K- Nishtimany mn" tvg-logo="http://194.163.160.164/KURDY/NISHTIMANYMN.png" group-title="Kurdish",K- Nishtimany mn
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/298523
+#EXTINF:-1 tvg-id="" tvg-name="K- Noor" tvg-logo="http://194.163.160.164/KURDY/NOOR.png" group-title="Kurdish",K- Noor
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/196381
+#EXTINF:-1 tvg-id="" tvg-name="K- NRT 2 Family" tvg-logo="http://194.163.160.164/KURDY/NRT2.png" group-title="Kurdish",K- NRT 2 Family
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/9
+#EXTINF:-1 tvg-id="" tvg-name="K- NRT 3 Kids" tvg-logo="http://194.163.160.164/KURDY/NRT3.png" group-title="Kurdish",K- NRT 3 Kids
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/11167
+#EXTINF:-1 tvg-id="" tvg-name="K- NRT 4 Ayni" tvg-logo="http://194.163.160.164/KURDY/NRT4.png" group-title="Kurdish",K- NRT 4 Ayni
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/16727
+#EXTINF:-1 tvg-id="" tvg-name="K- One World" tvg-logo="http://194.163.160.164/KURDY/ONE.png" group-title="Kurdish",K- One World
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/196375
+#EXTINF:-1 tvg-id="" tvg-name="K- Parwardai Hawler HD" tvg-logo="http://194.163.160.164/KURDY/PARWARDAI.HAWLER.png" group-title="Kurdish",K- Parwardai Hawler HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/199334
+#EXTINF:-1 tvg-id="" tvg-name="K- Parwardai Slemani HD" tvg-logo="" group-title="Kurdish",K- Parwardai Slemani HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/505726
+#EXTINF:-1 tvg-id="" tvg-name="K- Parwardayi Duhok" tvg-logo="http://194.163.160.164/KURDY/PARWARDAY.DUHOK.png" group-title="Kurdish",K- Parwardayi Duhok
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/117564
+#EXTINF:-1 tvg-id="" tvg-name="K- Payam" tvg-logo="http://194.163.160.164/KURDY/PAYAM.png" group-title="Kurdish",K- Payam
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/2564
+#EXTINF:-1 tvg-id="" tvg-name="K- Ashti TV" tvg-logo="http://194.163.160.164/KURDY/ASHTI.png" group-title="Kurdish",K- Ashti TV
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/30398
+#EXTINF:-1 tvg-id="" tvg-name="K- Qalam Ayni" tvg-logo="http://194.163.160.164/KURDY/QALAM.AYNI.png" group-title="Kurdish",K- Qalam Ayni
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/404369
+#EXTINF:-1 tvg-id="" tvg-name="K- Qalam geoghraphic" tvg-logo="http://194.163.160.164/KURDY/QALAM.GEOGRAPHIC.png" group-title="Kurdish",K- Qalam geoghraphic
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/404370
+#EXTINF:-1 tvg-id="" tvg-name="K- Qalam kids" tvg-logo="http://194.163.160.164/KURDY/QALAM.KIDS.png" group-title="Kurdish",K- Qalam kids
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/404371
+#EXTINF:-1 tvg-id="" tvg-name="K- Qalam TV" tvg-logo="http://194.163.160.164/KURDY/QALAM.ALL.png" group-title="Kurdish",K- Qalam TV
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/404368
+#EXTINF:-1 tvg-id="" tvg-name="K- Qallat" tvg-logo="http://194.163.160.164/KURDY/QALAT.png" group-title="Kurdish",K- Qallat
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/1037
+#EXTINF:-1 tvg-id="" tvg-name="K- Ranya" tvg-logo="http://194.163.160.164/KURDY/RANIA.png" group-title="Kurdish",K- Ranya
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/90905
+#EXTINF:-1 tvg-id="" tvg-name="K- Ranya City" tvg-logo="" group-title="Kurdish",K- Ranya City
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/495091
+#EXTINF:-1 tvg-id="" tvg-name="K- Rasan" tvg-logo="http://194.163.160.164/KURDY/RASAN.png" group-title="Kurdish",K- Rasan
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/1962
+#EXTINF:-1 tvg-id="" tvg-name="K- RAHAND" tvg-logo="http://194.163.160.164/KURDY/RAHAND.png" group-title="Kurdish",K- RAHAND
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/1773
+#EXTINF:-1 tvg-id="" tvg-name="K- RED tv" tvg-logo="http://194.163.160.164/KURDY/RED.png" group-title="Kurdish",K- RED tv
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/188563
+#EXTINF:-1 tvg-id="" tvg-name="K- Reng" tvg-logo="http://194.163.160.164/KURDY/RENG.png" group-title="Kurdish",K- Reng
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/9596
+#EXTINF:-1 tvg-id="" tvg-name="K- Reng Document" tvg-logo="http://194.163.160.164/KURDY/RENG.DOCUMENTARY.png" group-title="Kurdish",K- Reng Document
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/1036
+#EXTINF:-1 tvg-id="" tvg-name="K- Rojava" tvg-logo="http://194.163.160.164/KURDY/ROJAVA.png" group-title="Kurdish",K- Rojava
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/21494
+#EXTINF:-1 tvg-id="" tvg-name="K- Ronahi" tvg-logo="http://194.163.160.164/KURDY/RONAHI.png" group-title="Kurdish",K- Ronahi
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/215
+#EXTINF:-1 tvg-id="" tvg-name="K- Rozh" tvg-logo="http://194.163.160.164/KURDY/ROZH.png" group-title="Kurdish",K- Rozh
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/162530
+#EXTINF:-1 tvg-id="" tvg-name="K- SADA" tvg-logo="http://194.163.160.164/KURDY/SADA.png" group-title="Kurdish",K- SADA
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/206055
+#EXTINF:-1 tvg-id="" tvg-name="K- Sahar Kurdi" tvg-logo="http://194.163.160.164/KURDY/SAHAR.png" group-title="Kurdish",K- Sahar Kurdi
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/203
+#EXTINF:-1 tvg-id="" tvg-name="K- Saudi Ch. For Sunnah" tvg-logo="http://194.163.160.164/KURDY/SAUDICH.FORSUNAH.png" group-title="Kurdish",K- Saudi Ch. For Sunnah
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/16725
+#EXTINF:-1 tvg-id="" tvg-name="K- Shna " tvg-logo="http://194.163.160.164/KURDY/SHNA.png" group-title="Kurdish",K- Shna 
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/432068
+#EXTINF:-1 tvg-id="" tvg-name="K- Sima kids" tvg-logo="" group-title="Kurdish",K- Sima kids
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/141931
+#EXTINF:-1 tvg-id="" tvg-name="K- Sima" tvg-logo="http://194.163.160.164/KURDY/SIMA.png" group-title="Kurdish",K- Sima
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/162752
+#EXTINF:-1 tvg-id="" tvg-name="K- Sima Documentary" tvg-logo="http://194.163.160.164/KURDY/SIMA.DOCUMENTARY.png" group-title="Kurdish",K- Sima Documentary
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/196371
+#EXTINF:-1 tvg-id="" tvg-name="K- Slemani" tvg-logo="http://194.163.160.164/KURDY/SILEMANI.png" group-title="Kurdish",K- Slemani
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/135706
+#EXTINF:-1 tvg-id="" tvg-name="K- Speda" tvg-logo="http://194.163.160.164/KURDY/SPEDA.png" group-title="Kurdish",K- Speda
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/217
+#EXTINF:-1 tvg-id="" tvg-name="K- Speda  Drama" tvg-logo="http://194.163.160.164/KURDY/SPEDA.DRAMA.png" group-title="Kurdish",K- Speda  Drama
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/28801
+#EXTINF:-1 tvg-id="" tvg-name="K- Spi HD" tvg-logo="http://194.163.160.164/KURDY/SPI.png" group-title="Kurdish",K- Spi HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/445557
+#EXTINF:-1 tvg-id="" tvg-name="K- Spi Quran" tvg-logo="http://194.163.160.164/KURDY/SPI.QURAN.png" group-title="Kurdish",K- Spi Quran
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/418833
+#EXTINF:-1 tvg-id="" tvg-name="K- Srusht" tvg-logo="http://194.163.160.164/KURDY/SRUSHT.png" group-title="Kurdish",K- Srusht
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/169731
+#EXTINF:-1 tvg-id="" tvg-name="K- Sterk" tvg-logo="http://194.163.160.164/KURDY/STERK.png" group-title="Kurdish",K- Sterk
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/216
+#EXTINF:-1 tvg-id="" tvg-name="K- tasawf" tvg-logo="http://194.163.160.164/KURDY/TASAWUF.png" group-title="Kurdish",K- tasawf
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/149064
+#EXTINF:-1 tvg-id="" tvg-name="K- TRT KURDI" tvg-logo="http://194.163.160.164/KURDY/TRT.KURDI.png" group-title="Kurdish",K- TRT KURDI
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/149194
+#EXTINF:-1 tvg-id="" tvg-name="K- U TV" tvg-logo="http://194.163.160.164/KURDY/UTV.png" group-title="Kurdish",K- U TV
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/1041
+#EXTINF:-1 tvg-id="" tvg-name="K- U2" tvg-logo="http://194.163.160.164/KURDY/U2.TV.png" group-title="Kurdish",K- U2
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/13024
+#EXTINF:-1 tvg-id="" tvg-name="K- UTV" tvg-logo="http://194.163.160.164/KURDY/UTV.png" group-title="Kurdish",K- UTV
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/31689
+#EXTINF:-1 tvg-id="" tvg-name="K- UTV 2" tvg-logo="http://194.163.160.164/KURDY/U2.TV.png" group-title="Kurdish",K- UTV 2
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/169736
+#EXTINF:-1 tvg-id="" tvg-name="K- UTV DUHOK  HD" tvg-logo="http://194.163.160.164/KURDY/UTV.png" group-title="Kurdish",K- UTV DUHOK  HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/169735
+#EXTINF:-1 tvg-id="" tvg-name="K- WAAR" tvg-logo="http://194.163.160.164/KURDY/WAAR.png" group-title="Kurdish",K- WAAR
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/11210
+#EXTINF:-1 tvg-id="" tvg-name="K- Welat Tv" tvg-logo="" group-title="Kurdish",K- Welat Tv
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/37129
+#EXTINF:-1 tvg-id="" tvg-name="K- Xabir" tvg-logo="http://194.163.160.164/KURDY/XABIR.png" group-title="Kurdish",K- Xabir
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/169740
+#EXTINF:-1 tvg-id="" tvg-name="K- Zagros TV" tvg-logo="http://194.163.160.164/KURDY/ZAGROS.png" group-title="Kurdish",K- Zagros TV
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/10
+#EXTINF:-1 tvg-id="" tvg-name="K- Zarok Sorani" tvg-logo="http://194.163.160.164/KURDY/ZAROK.SORANI.png" group-title="Kurdish",K- Zarok Sorani
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/45762
+#EXTINF:-1 tvg-id="" tvg-name="K- Zaxo" tvg-logo="http://194.163.160.164/KURDY/ZAKHO.SPORT.png" group-title="Kurdish",K- Zaxo
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/162751
+#EXTINF:-1 tvg-id="" tvg-name="K- Zaxo HD" tvg-logo="http://194.163.160.164/KURDY/ZAKHO.SPORT.png" group-title="Kurdish",K- Zaxo HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/201407
+#EXTINF:-1 tvg-id="" tvg-name="K- Zed HD" tvg-logo="http://194.163.160.164/KURDY/ZED.png" group-title="Kurdish",K- Zed HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/10581
+#EXTINF:-1 tvg-id="" tvg-name="K- ZED Plus" tvg-logo="http://194.163.160.164/KURDY/ZED.PLUS.png" group-title="Kurdish",K- ZED Plus
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/104398
+#EXTINF:-1 tvg-id="" tvg-name="k- Znar Kids" tvg-logo="http://194.163.160.164/KURDY/ZNAR.KIDS.png" group-title="Kurdish",k- Znar Kids
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/247286
+#EXTINF:-1 tvg-id="" tvg-name="K- Zhyar" tvg-logo="http://194.163.160.164/KURDY/ZHYAR.png" group-title="Kurdish",K- Zhyar
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/169743
+#EXTINF:-1 tvg-id="" tvg-name="K- Znar" tvg-logo="http://194.163.160.164/KURDY/ZNAR.png" group-title="Kurdish",K- Znar
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/149059
+#EXTINF:-1 tvg-id="" tvg-name="PER - Gem World Cup" tvg-logo="" group-title="Iran",PER - Gem World Cup
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/483531
+#EXTINF:-1 tvg-id="" tvg-name="K- Jmedia" tvg-logo="http://194.163.160.164/KURDY/JMEDIA.png" group-title="Kurdish",K- Jmedia
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/449465
+#EXTINF:-1 tvg-id="" tvg-name="K-Bangxwazen Badinan" tvg-logo="http://194.163.160.164/KURDY/BANGXWAZEN.BADINAN.png" group-title="Kurdish",K-Bangxwazen Badinan
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/93621
+#EXTINF:-1 tvg-id="" tvg-name="K-Newline Bollywood" tvg-logo="http://194.163.160.164/KURDY/NEWLINE.BOLLYWOOD.png" group-title="Kurdish",K-Newline Bollywood
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/293137
+#EXTINF:-1 tvg-id="" tvg-name="K-Newline Drama" tvg-logo="http://194.163.160.164/KURDY/NEWLINE.DRAMA.png" group-title="Kurdish",K-Newline Drama
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/293140
+#EXTINF:-1 tvg-id="" tvg-name="K-Newline Kids" tvg-logo="http://194.163.160.164/KURDY/NEWLINE.KIDS.png" group-title="Kurdish",K-Newline Kids
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/293136
+#EXTINF:-1 tvg-id="" tvg-name="K-Newline Movies" tvg-logo="http://194.163.160.164/KURDY/NEWLINE.MOVIES.png" group-title="Kurdish",K-Newline Movies
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/293135
+#EXTINF:-1 tvg-id="" tvg-name="K- Naqshi Media" tvg-logo="http://194.163.160.164/KURDY/NAQSHI.MEDIA.png" group-title="Kurdish",K- Naqshi Media
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/488236
+#EXTINF:-1 tvg-id="" tvg-name="K- KOMALA Media Network" tvg-logo="http://194.163.160.164/KURDY/KOMALA.MEDIA.NETWORK.png" group-title="Kurdish",K- KOMALA Media Network
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/163223
+#EXTINF:-1 tvg-id="" tvg-name="KURD 7" tvg-logo="http://194.163.160.164/KURDY/KURD7.png" group-title="Kurdish",KURD 7
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/447467
+#EXTINF:-1 tvg-id="" tvg-name="K- Barnmay Barnama" tvg-logo="http://194.163.160.164/KURDY/BARNAMAYBARNAMA.png" group-title="Kurdish",K- Barnmay Barnama
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/351227
+#EXTINF:-1 tvg-id="" tvg-name="K- Bazmi Bazm" tvg-logo="http://194.163.160.164/KURDY/BAZMIBAZM.png" group-title="Kurdish",K- Bazmi Bazm
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/351226
+#EXTINF:-1 tvg-id="" tvg-name="K- Dramay 3 ba 4" tvg-logo="http://194.163.160.164/KURDY/DRAMAY3BA4.png" group-title="Kurdish",K- Dramay 3 ba 4
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/351225
+#EXTINF:-1 tvg-id="" tvg-name="K- Forever Badini Movies" tvg-logo="http://194.163.160.164/KURDY/BADINIMOVIES.png" group-title="Kurdish",K- Forever Badini Movies
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/237327
+#EXTINF:-1 tvg-id="" tvg-name="K- Forever Badini Series" tvg-logo="http://194.163.160.164/KURDY/BADINISERIES.png" group-title="Kurdish",K- Forever Badini Series
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/237339
+#EXTINF:-1 tvg-id="" tvg-name="K- Forever Cartoon 1" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVER.CARTOON.png" group-title="Kurdish",K- Forever Cartoon 1
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/237328
+#EXTINF:-1 tvg-id="" tvg-name="K- Forever Cartoon 1" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVER.CARTOON.png" group-title="Kurdish",K- Forever Cartoon 1
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/163635
+#EXTINF:-1 tvg-id="" tvg-name="K- Forever Cartoon 2" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVER.CARTOON.png" group-title="Kurdish",K- Forever Cartoon 2
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/237329
+#EXTINF:-1 tvg-id="" tvg-name="K- Forever Cartoon 2" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVER.CARTOON.png" group-title="Kurdish",K- Forever Cartoon 2
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/163663
+#EXTINF:-1 tvg-id="" tvg-name="K- Forever Cartoon 3" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVER.CARTOON.png" group-title="Kurdish",K- Forever Cartoon 3
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/163688
+#EXTINF:-1 tvg-id="" tvg-name="K- Forever Documentary" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVERNATURE.png" group-title="Kurdish",K- Forever Documentary
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/354037
+#EXTINF:-1 tvg-id="" tvg-name="K- Forever Tom & Jerry" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/TOMANDJERRY.png" group-title="Kurdish",K- Forever Tom & Jerry
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/237338
+#EXTINF:-1 tvg-id="" tvg-name="K- Forever Wild Life" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVER.CARTOON.png" group-title="Kurdish",K- Forever Wild Life
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/354038
+#EXTINF:-1 tvg-id="" tvg-name="K- Islam Wtar 1" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/ISLAMWTAR.png" group-title="Kurdish",K- Islam Wtar 1
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/209004
+#EXTINF:-1 tvg-id="" tvg-name="K- Islam Wtar 2" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/ISLAMWTAR.png" group-title="Kurdish",K- Islam Wtar 2
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/209005
+#EXTINF:-1 tvg-id="" tvg-name="Movies Doblaj Badini 1" tvg-logo="" group-title="Kurdish",Movies Doblaj Badini 1
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/387116
+#EXTINF:-1 tvg-id="" tvg-name="Movies Doblaj Badini 2" tvg-logo="" group-title="Kurdish",Movies Doblaj Badini 2
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/387545
+#EXTINF:-1 tvg-id="" tvg-name="Movies Doblaj Badini 3" tvg-logo="" group-title="Kurdish",Movies Doblaj Badini 3
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/387546
+#EXTINF:-1 tvg-id="" tvg-name="K- Kurdcinema Action 1" tvg-logo="http://194.163.160.164/KURDY/KURD.CINEMA.ACTION1.png" group-title="Kurdish",K- Kurdcinema Action 1
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/63871
+#EXTINF:-1 tvg-id="" tvg-name="K- Kurdcinema Action 2" tvg-logo="http://194.163.160.164/KURDY/KURDCINEMAACTION2.png" group-title="Kurdish",K- Kurdcinema Action 2
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/63685
+#EXTINF:-1 tvg-id="" tvg-name="K- Kurdcinema Action 3" tvg-logo="http://194.163.160.164/KURDY/KURD.CINEMA.ACTION3.png" group-title="Kurdish",K- Kurdcinema Action 3
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/63872
+#EXTINF:-1 tvg-id="" tvg-name="K- Mr. Bean Kurdish" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/MRBEAN.png" group-title="Kurdish",K- Mr. Bean Kurdish
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/350980
+#EXTINF:-1 tvg-id="" tvg-name="K- Muhammad Mala Fayaq" tvg-logo="http://194.163.160.164/KURDY/MUHAMMAD.MALA.FAYAQ.png" group-title="Kurdish",K- Muhammad Mala Fayaq
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/208163
+#EXTINF:-1 tvg-id="" tvg-name="K- NewMax Box Office" tvg-logo="http://194.163.160.164/KURDY/NEW.MAX.BOXOFFICE.png" group-title="Kurdish",K- NewMax Box Office
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/275531
+#EXTINF:-1 tvg-id="" tvg-name="K- Qaqa" tvg-logo="http://194.163.160.164/KURDY/QAQA.png" group-title="Kurdish",K- Qaqa
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/351230
+#EXTINF:-1 tvg-id="" tvg-name="K- Zhyan Nama" tvg-logo="http://194.163.160.164/KURDY/ZHYANNAMA.png" group-title="Kurdish",K- Zhyan Nama
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/208164
+#EXTINF:-1 tvg-id="" tvg-name="K- Adnan Wa Lina 1" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/ADNANWLINA.jpg" group-title="Kurdish",K- Adnan Wa Lina 1
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/483745
+#EXTINF:-1 tvg-id="" tvg-name="K-Forever Cinema 1" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVERCINEMA.png" group-title="Kurdish",K-Forever Cinema 1
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/237331
+#EXTINF:-1 tvg-id="" tvg-name="K-Forever Cinema 2" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVERCINEMA.png" group-title="Kurdish",K-Forever Cinema 2
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/237332
+#EXTINF:-1 tvg-id="" tvg-name="K-Forever Cinema 3" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVERCINEMA.png" group-title="Kurdish",K-Forever Cinema 3
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/294284
+#EXTINF:-1 tvg-id="" tvg-name="K-Forever Fishing" tvg-logo="http://194.163.160.164/KURDY/FOREVERFISHING.png" group-title="Kurdish",K-Forever Fishing
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/237334
+#EXTINF:-1 tvg-id="" tvg-name="K-Forever Kurdistan Nature" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVERNATURE.png" group-title="Kurdish",K-Forever Kurdistan Nature
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/237335
+#EXTINF:-1 tvg-id="" tvg-name="K-Forever Pink Panther" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/PINK.PANTER.png" group-title="Kurdish",K-Forever Pink Panther
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/237336
+#EXTINF:-1 tvg-id="" tvg-name="K-KURD MOVIES" tvg-logo="http://194.163.160.164/KURDY/KURD.MOVIES.png" group-title="Kurdish",K-KURD MOVIES
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/483610
+#EXTINF:-1 tvg-id="" tvg-name="K- Nuçe TV" tvg-logo="" group-title="Kurdish",K- Nuçe TV
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/509120
+#EXTINF:-1 tvg-id="" tvg-name="SHAR TV" tvg-logo="https://s2.ezgif.com/tmp/ezgif-22694987e05d9.jpg" group-title="Kurdish",SHAR TV
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/480965
+#EXTINF:-1 tvg-id="" tvg-name="K- Ashti Family " tvg-logo="http://194.163.160.164/KURDY/ASHTI.FAMILY.png" group-title="Kurdish",K- Ashti Family 
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/481838
+#EXTINF:-1 tvg-id="" tvg-name="One Plus" tvg-logo="" group-title="Kurdish",One Plus
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/500817
+#EXTINF:-1 tvg-id="" tvg-name="K- Shna HD" tvg-logo="" group-title="Kurdish",K- Shna HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/505748
+#EXTINF:-1 tvg-id="" tvg-name="One kids" tvg-logo="http://194.163.160.164/KURDY/BASK.PLUS.png" group-title="Kurdish",One kids
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/507933
+#EXTINF:-1 tvg-id="" tvg-name="K- Peshang" tvg-logo="http://194.163.160.164/KURDY/4SPORT.png" group-title="Kurdish",K- Peshang
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/433353
+#EXTINF:-1 tvg-id="" tvg-name="K- Ava Sport" tvg-logo="http://194.163.160.164/KURDY/AVASPORT.png" group-title="Kurdish Sport",K- Ava Sport
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/438124
+#EXTINF:-1 tvg-id="" tvg-name="K- NRT Sport" tvg-logo="http://194.163.160.164/KURDY/NRT.SPORT.png" group-title="Kurdish Sport",K- NRT Sport
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/29348
+#EXTINF:-1 tvg-id="" tvg-name="K- See Sport 1" tvg-logo="http://194.163.160.164/KURDY/SEE.SPORT.png" group-title="Kurdish Sport",K- See Sport 1
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/164380
+#EXTINF:-1 tvg-id="" tvg-name="K- See Sport 2" tvg-logo="http://194.163.160.164/KURDY/SEE.SPORT.png" group-title="Kurdish Sport",K- See Sport 2
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/240831
+#EXTINF:-1 tvg-id="" tvg-name="K- See Sport 3" tvg-logo="http://194.163.160.164/KURDY/SEE.SPORT3.png" group-title="Kurdish Sport",K- See Sport 3
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/29346
+#EXTINF:-1 tvg-id="" tvg-name="K- Duhok Sport" tvg-logo="http://194.163.160.164/KURDY/DUHOK.SPORT.png" group-title="Kurdish Sport",K- Duhok Sport
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/199335
+#EXTINF:-1 tvg-id="" tvg-name="K- Kurdistan Sport" tvg-logo="http://194.163.160.164/KURDY/KURDISTAN.SPORT.png" group-title="Kurdish Sport",K- Kurdistan Sport
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/33706
+#EXTINF:-1 tvg-id="" tvg-name="K-Aso Sport" tvg-logo="http://194.163.160.164/KURDY/ASO.SPORT.png" group-title="Kurdish Sport",K-Aso Sport
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/33707
+#EXTINF:-1 tvg-id="" tvg-name="K- Aro Sport" tvg-logo="http://194.163.160.164/KURDY/ARO.SPORT.png" group-title="Kurdish Sport",K- Aro Sport
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/159594
+#EXTINF:-1 tvg-id="" tvg-name="K- Astera Sport" tvg-logo="http://194.163.160.164/KURDY/ASTERA.SPORT.png" group-title="Kurdish Sport",K- Astera Sport
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/33546
+#EXTINF:-1 tvg-id="" tvg-name="K- Astera Sport 2" tvg-logo="" group-title="Kurdish Sport",K- Astera Sport 2
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/247137
+#EXTINF:-1 tvg-id="" tvg-name="K- LD Sport" tvg-logo="http://194.163.160.164/KURDY/LD.SPORT.png" group-title="Kurdish Sport",K- LD Sport
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/149062
+#EXTINF:-1 tvg-id="" tvg-name="K- LD SPORT CHEAK" tvg-logo="http://194.163.160.164/KURDY/LD.SPORT.png" group-title="Kurdish Sport",K- LD SPORT CHEAK
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/356831
+#EXTINF:-1 tvg-id="" tvg-name="K- Newline Sport" tvg-logo="http://194.163.160.164/KURDY/NEWLINE.SPORT.png" group-title="Kurdish Sport",K- Newline Sport
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/293134
+#EXTINF:-1 tvg-id="" tvg-name="K- MTV Sport" tvg-logo="http://194.163.160.164/KURDY/MTV.SPORT.png" group-title="Kurdish Sport",K- MTV Sport
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/290928
+#EXTINF:-1 tvg-id="" tvg-name="K- MMN Sport HD" tvg-logo="http://194.163.160.164/KURDY/MMN.DRAMA.png" group-title="Kurdish Sport",K- MMN Sport HD
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/33300
+#EXTINF:-1 tvg-id="" tvg-name="K- SIMA SPORT" tvg-logo="http://194.163.160.164/KURDY/SIMA.SPORT.png" group-title="Kurdish Sport",K- SIMA SPORT
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/199935
+#EXTINF:-1 tvg-id="" tvg-name="K- Dasinya Sport" tvg-logo="http://194.163.160.164/KURDY/DASINYA.SPORT.png" group-title="Kurdish Sport",K- Dasinya Sport
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/33385
+#EXTINF:-1 tvg-id="" tvg-name="K- Delal Sport" tvg-logo="http://194.163.160.164/KURDY/DELAL.SPORT.png" group-title="Kurdish Sport",K- Delal Sport
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/368857
+#EXTINF:-1 tvg-id="" tvg-name="K- MMN SPORT" tvg-logo="http://194.163.160.164/KURDY/MMN.SPORT.png" group-title="Kurdish Sport",K- MMN SPORT
+http://streamlocals.co:2095/32436567787788/ybpCIJEvyWH3KS/231240
